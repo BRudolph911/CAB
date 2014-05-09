@@ -1,0 +1,26 @@
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\bin\Debug\BRudolph_Sound Manipulation.exe.config
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\bin\Debug\BRudolph_Sound Manipulation.exe
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\bin\Debug\BRudolph_Sound Manipulation.pdb
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\MainWindow.baml
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\MainWindow.g.cs
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\App.g.cs
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation_MarkupCompile.cache
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.g.resources
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound_Manipulation.Properties.Resources.resources
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.csproj.GenerateResource.Cache
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.exe
+C:\Users\brudolph\Dropbox\Old School Files\C++\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.pdb
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\bin\Debug\BRudolph_Sound Manipulation.exe.config
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.exe
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.pdb
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\MainWindow.baml
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\MainWindow.g.cs
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\App.g.cs
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation_MarkupCompile.cache
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.g.resources
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound_Manipulation.Properties.Resources.resources
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\obj\Debug\BRudolph_Sound Manipulation.csproj.GenerateResource.Cache
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\bin\Debug\BRudolph_Sound Manipulation.exe
+C:\Users\brudolph\Dropbox\Old School Files\Capstone\Code\BRudolph_Sound Manipulation\BRudolph_Sound Manipulation\bin\Debug\BRudolph_Sound Manipulation.pdb
